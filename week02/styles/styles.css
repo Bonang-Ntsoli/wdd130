@@ -28,13 +28,10 @@ aside{
     position: relative;
     width:20rem;
     margin:10rem;
-    border:1px solid black;
-    padding:2rem;
-    background-color: brown;
-    color:#eee ;
+   
 }
 aside img{
-    width:200px;
+    width: 150px;
     height:auto;
 }
 main img{
@@ -69,5 +66,5 @@ main img{
 aside h2{
     position: absolute;
     top: 47px;
-    left: 150px;
+    left: 150
 }
